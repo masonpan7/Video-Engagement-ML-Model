@@ -1,2 +1,2 @@
 # Video-Engagement-ML-Model
-Predicted how engaging a video would be based on a set of data
+This project predicts user engagement with video content using machine learning models, including a Random Forest Classifier and a Multi-Layer Perceptron (MLP) Classifier. It analyzes key features such as document entropy, freshness, easiness, and silent period rate to determine engagement probability. Feature selection is performed using SelectKBest to identify the most influential factors. The model is trained and tested on structured datasets, optimizing hyperparameters for improved accuracy. Future improvements include fine-tuning model parameters, exploring deep learning approaches, and integrating real-world data for better generalization.
